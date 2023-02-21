@@ -1,0 +1,36 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to bottom, #ffeeee, #ffc0bb, #ffebeb);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: white;
+  padding: 25px;
+}
+.head {
+  text-align: center;
+}
+
+.cart {
+  display: flex;
+}
+
+.emoji {
+  list-style: none;
+  padding: 10px;
+}
+.img {
+  width: 120px;
+  height: 120px;
+}
+.name {
+  text-align: center;
+}
+.happy-emoji {
+  text-align: center;
+}
